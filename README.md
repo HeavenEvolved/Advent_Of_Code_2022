@@ -8,7 +8,7 @@ Eric Wastl:
   GitHub: https://github.com/topaz
   Website: http://was.tl/
 
-PS: If you want Input File(s) or the Input File formats, kindly DM me on Discord at Indie#0969. Cheerio!
+**PS: If you want Input File(s) or the Input File formats, kindly DM me on Discord at Indie#0969. Cheerio!**
 
 Day-wise Rankings on the Python Discord Leaderboard:
 
