@@ -1,12 +1,14 @@
 # Advent_Of_Code_2022
 Participating in the Advent of Code 2022
 
-This Repo Consists of the files for finding the answer of each Challenge in the Advent of Code '22 event that has been created and organised by:
+This Repo contains solutions for each Challenge in the Advent of Code '22 event that has been created and organised by:
 
 Eric Wastl:
   
   GitHub: https://github.com/topaz
   Website: http://was.tl/
+
+PS: If you want Input File(s) or the Input File formats, kindly DM me on Discord at Indie#0969. Cheerio!
 
 Day-wise Rankings on the Python Discord Leaderboard:
 
