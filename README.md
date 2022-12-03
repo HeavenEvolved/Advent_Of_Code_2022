@@ -7,6 +7,8 @@ Eric Wastl:
   
   GitHub: https://github.com/topaz
   Website: http://was.tl/
+  
+All the Solutions were made in under 3-6 minutes, so pardon the code if it is not optimal enough. In hindsight there were a lot of this that could've been done to optimise the code and/or shorten it. Considering that this is my first Advent Of Code Event, I think I am doing alright! Thank you for checking out my solutions! Any advice is welcome and can be sent through my Discord DMs(ID mentioned below!). Thanks!
 
 **PS: If you want Input File(s) or the Input File formats, kindly DM me on Discord at Indie#0969. Cheerio!**
 
