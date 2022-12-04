@@ -7,6 +7,8 @@ Eric Wastl:
   
   GitHub: https://github.com/topaz
   Website: http://was.tl/
+  
+All the Solutions were made in under 3-6 minutes, so pardon the code if it is not optimal enough. In hindsight there were a lot of this that could've been done to optimise the code and/or shorten it. Considering that this is my first Advent Of Code Event, I think I am doing alright! Thank you for checking out my solutions! Any advice is welcome and can be sent through my Discord DMs(ID mentioned below!). Thanks!
 
 **PS: If you want Input File(s) or the Input File formats, kindly DM me on Discord at Indie#0969. Cheerio!**
 
@@ -18,7 +20,7 @@ Day-wise Rankings on the Python Discord Leaderboard:
   Day 002: Rank 114
   ![image](https://user-images.githubusercontent.com/118423954/205229779-de690fee-ac55-4599-b5ec-c390c4e51be0.png)
   
-  Day 003: Rank 82
+  Day 003: Rank 87
   ![image](https://user-images.githubusercontent.com/118423954/205426132-001bfa6e-8cb9-470f-86e1-d15d5748a569.png)
   
 Hope you have a great time!
