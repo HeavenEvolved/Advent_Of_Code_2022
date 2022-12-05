@@ -23,4 +23,10 @@ Day-wise Rankings on the Python Discord Leaderboard:
   Day 003: Rank 87
   ![image](https://user-images.githubusercontent.com/118423954/205426132-001bfa6e-8cb9-470f-86e1-d15d5748a569.png)
   
+  Day 004: Rank 116
+  ![image](https://user-images.githubusercontent.com/118423954/205476880-713ba7f8-2bf8-47c9-9468-94fa7935a34f.png)
+  
+  Day 005: Rank 144
+  ![image](https://user-images.githubusercontent.com/118423954/205561651-fa41e896-5c78-4d5b-a8bc-be31213f6306.png)
+
 Hope you have a great time!
