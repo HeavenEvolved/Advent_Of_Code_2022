@@ -1,14 +1,14 @@
 # Advent_Of_Code_2022
 Participating in the Advent of Code 2022
 
-This Repo contains solutions for each Challenge in the Advent of Code '22 event that has been created and organised by:
+This Repo contains solutions for each Challenge in the Advent of Code '22 Event that has been created and organised by:
 
 Eric Wastl:
   
   GitHub: https://github.com/topaz
   Website: http://was.tl/
   
-All the Solutions were made in under 3-6 minutes, so pardon the code if it is not optimal enough. In hindsight there were a lot of this that could've been done to optimise the code and/or shorten it. Considering that this is my first Advent Of Code Event, I think I am doing alright! Thank you for checking out my solutions! Any advice is welcome and can be sent through my Discord DMs(ID mentioned below!). Thanks!
+All the Solutions were made as fast as I could, so pardon the code if it is not optimal enough. In hindsight there were a lot of things that could've been done to make the code faster and/or shorten it. Considering that this is my first Advent Of Code Event, I think I am doing alright! Thank you for checking out my solutions! Any advice is welcome and can be sent through my Discord DMs(ID mentioned below!). Thanks!
 
 **PS: If you want Input File(s) or the Input File formats, kindly DM me on Discord at Indie#0969. Cheerio!**
 
@@ -28,5 +28,8 @@ Day-wise Rankings on the Python Discord Leaderboard:
   
   Day 005: Rank 144
   ![image](https://user-images.githubusercontent.com/118423954/205561651-fa41e896-5c78-4d5b-a8bc-be31213f6306.png)
+  
+  Day 006: Rank 102
+  ![image](https://user-images.githubusercontent.com/118423954/205855174-55e90ee0-3ccc-469d-b85d-1426a02fc2dc.png)
 
 Hope you have a great time!
